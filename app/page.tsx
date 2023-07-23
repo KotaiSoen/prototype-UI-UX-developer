@@ -6,6 +6,16 @@ import { BiLogoFacebook, BiLogoTwitter } from "react-icons/bi";
 export default function Home() {
   const projectPictures = [
     { url: "/python_wallpaper.jpg", creator: "Adam Blake", title: "python url shortener" },
+    { url: "/python_wallpaper.jpg", creator: "Adam Blake", title: "python url shortener" },
+    { url: "/python_wallpaper.jpg", creator: "Adam Blake", title: "python url shortener" },
+    { url: "/python_wallpaper.jpg", creator: "Adam Blake", title: "python url shortener" },
+    { url: "/python_wallpaper.jpg", creator: "Adam Blake", title: "python url shortener" },
+    { url: "/python_wallpaper.jpg", creator: "Adam Blake", title: "python url shortener" },
+    { url: "/eat_code_wallpaper.jpg", creator: "Josey London", title: "basics of js" },
+    { url: "/eat_code_wallpaper.jpg", creator: "Josey London", title: "basics of js" },
+    { url: "/eat_code_wallpaper.jpg", creator: "Josey London", title: "basics of js" },
+    { url: "/eat_code_wallpaper.jpg", creator: "Josey London", title: "basics of js" },
+    { url: "/eat_code_wallpaper.jpg", creator: "Josey London", title: "basics of js" },
     { url: "/eat_code_wallpaper.jpg", creator: "Josey London", title: "basics of js" },
   ];
 
