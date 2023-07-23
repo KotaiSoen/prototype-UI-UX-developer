@@ -57,7 +57,7 @@ export default function Home() {
         <div className="flex gap-6 flex-wrap py-2 pt-3">
           {projectPictures.map((project) => {
             return (
-              <div className="border border-black rounded p-2">
+              <div className="border border-black rounded p-2" key={project.url}>
                 <Image
                   src={project.url}
                   width={200}
